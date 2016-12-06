@@ -1,0 +1,17 @@
+span{display:none;}
+a.infobulle:hover span {
+   display: inline;
+   position: absolute;
+
+   background: #dedede;
+
+   color: grey;
+   
+
+   border: 1px solid grey;
+   border-left: 4px solid grey;
+}
+* {
+   font-size: 18px; 
+   font-family: verdana;
+}
